@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>TIKET WISUDA</title>
+	<style type="text/css">
+		td {
+			padding: 8px;
+		}
+	</style>
+</head>
+
+<body>
+	<table border="1" style="border-collapse: collapse;">
+		<tr>
+							<td colspan="2" style="min-width: 250px; text-align: center;">
+					<b style="margin-left: -45px; margin-top:30px !important;">ANGKATAN WISUDA125</b>
+					<img src="https://wisuda.untad.ac.id/assets/login/images/UNTAD.png" style="float: left;width: 40px;height: 40px;margin-right: 20px;">
+				</td>
+					</tr>
+		<tr>
+			<td colspan="2" style="min-width: 250px"><b>
+					<center>ID CARD</center>
+				</b></td>
+
+			<!--</tr>
+		<tr>
+			<td>Nomor Kursi</td>
+			<td>: MOH. AGUNG NURSALIM</td>
+			<td style="border-left: 2px dashed">Nomor Kursi</td>
+			<td>: MOH. AGUNG NURSALIM</td>
+		</tr>
+		<tr>
+			<td>Nomor Kursi</td>
+			<td>: 740 </td>
+			
+			
+		</tr>-->
+			<!-- <tr> memet ganti model 21-09-2023
+			<td>Nama</td>
+			<td>: MOH. AGUNG NURSALIM</td>
+			</tr>
+		<tr>
+			<td>Nomor Stambuk</td>
+			<td>: F52120029</td>
+			
+		</tr>
+		<tr>
+			<td>Kode Fakultas - Prodi</td>
+			<td>: F - Sistem Informasi</td>
+			
+		</tr> -->
+
+		<tr>
+			<td>
+				<center>Nama</center>
+				<br>
+				<center>MOH. AGUNG NURSALIM</center>
+			</td>
+
+		</tr>
+					<tr>
+				<td>
+					<center>Nomor Kursi / Sesi</center>
+											<br>
+						<center>Nomor Kursi = 740, Hari - Rabu, Sesi - 1</center>
+									</td>
+			</tr>
+				<tr>
+			<td>
+				<center>Tanggal - Jam</center>
+				<br>
+				<center><b><i>14 Agustus 2024 Jam 07.30 - Selesai Acara</center></i></b>
+			</td>
+		</tr>
+		<tr>
+							<td colspan="2" style="text-align: center"><img style="margin-right: 100px;" width="90" height="120" src='https://wisuda.untad.ac.id/assets/images/uploads/F52120029_WISUDA126_1723422056.jpg'> 
+				<!-- linknya bermasalah -->
+				<!-- <td colspan="2" style="text-align: center"><img src="https://chart.googleapis.com/chart?chs=130x130&cht=qr&chl=F52120029%2FWISUDA125" /></td> -->
+				<!-- link baru -->
+				<img src="https://quickchart.io/qr?text=F52120029%2FWISUDA125&dark=#000000&light=0ff&ecLevel=Q&format=svg%2F" /> 
+				<!-- coba -->
+				<!-- <img style="margin-left: 10px;" width="90" heigth="120" src='https://wisuda.untad.ac.id/assets/imagesqr/F52120029.png' />  -->
+			</td>
+			
+		</tr>
+		
+			<tr>
+				<td>Catatan : Bawa Pada saat pelaksanaan wisuda
+					<br> <b>Lambat Datang Saat Wisuda Registrasi di Tutup</b>
+				</td>
+			
+			</tr>
+	</table>
+</body>
+
+</html>
